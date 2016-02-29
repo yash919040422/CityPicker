@@ -1,3 +1,4 @@
+转载来自github
 # CityPicker
 仿美团等选择城市列表demo
 
